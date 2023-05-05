@@ -1,2 +1,2 @@
-## DiscordJs Bot template
-# This repository is a template of a bot with an Handler
+# DiscordJs Bot template
+## This repository is a template of a bot with an Handler
